@@ -1,1 +1,9 @@
 
+
+     "fig4":["-d A",
+           "-l ls", 
+     "-p VB",
+     "-s Random GS",
+     "-u stochastic",    
+     "-pn Sort:FB GSDHb:GSL",
+     "-l2 0 -b 5 -t 1 -f 0 -n 500"],
