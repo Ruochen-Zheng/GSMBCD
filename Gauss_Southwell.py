@@ -39,3 +39,4 @@ def select(rule, x,sig,A, b, loss, args, iteration,x_outer,miu):
       #print max(s)
       block = np.argsort(s, axis=None)[-block_size:]
       #print block
+##
